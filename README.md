@@ -1,2 +1,3 @@
 # hello-world
 new hobby
+I'm trying to understand how gitHub works. I hope it's easy enogh to learn that style of working...
